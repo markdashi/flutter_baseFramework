@@ -191,9 +191,9 @@ class ContactPage extends StatelessWidget {
     )
 ```
 
-这样我们就实现了基本的项目骨架。
+这样我们就实现了上述基本的项目骨架。
 
-本文实例的代码地址:
+
 
 
 
